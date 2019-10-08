@@ -1,4 +1,3 @@
-# My Blog
 
 ![personal-blog](static-files/personal-blog.png)
 
